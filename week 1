@@ -1,0 +1,19 @@
+#student introduction
+Y="student introduction"
+Name="My name is Ali Yusuf"
+Age="I am 21 years old"
+City="I live in Jimma"
+Department="I am studying cs at Jimma university"
+favorite_language="My favorite programming lanuguage is java"
+Myprogramminggoal="My programming goal is to become a good backend developer"
+
+line="==============================="
+print(line)
+print(Y)
+print(line)
+print(Name)
+print(Age)
+print(City)
+print(Department)
+print(favorite_language)
+print(Myprogramminggoal)
